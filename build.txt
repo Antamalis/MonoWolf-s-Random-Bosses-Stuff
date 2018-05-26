@@ -1,4 +1,4 @@
 author = MonoWolf
 version = 0.1
-displayName = Mono Wolf's Random Bosses & Stuff
+displayName = MonoWolf's Random Bosses & Stuff
 buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, vs\*, .git\*
