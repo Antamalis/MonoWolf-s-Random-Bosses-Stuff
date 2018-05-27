@@ -1,9 +1,14 @@
-This is my first mod ever. I will be adding random stuff as I learn for to create mods.
+This is my first mod ever. I'll just be adding stuff at random as I learn how to create mods.
 
-I wouldn't recommend using this in a legit playthrough, thought you're more than welcome to.
+My main focus of this mod is bosses, cuz who doesn't like them, right? But, there is a lot I need to learn before I actually manage to create one, so just sit tight.
 
-Don't expect frequent and regular updates.
+I'll try to keep the forum post updated as I add stuff in case anyone actually want to try this mod out (which I would appreciate).
 
-So far this mod adds:
-
-NOTHING
+Just a quick note:
+	 I have NEVER created a single sprite prior to this mod, so yeah...
+	 Don't expect regular updates.
+	 Don't expect things to be balanced.
+	 Feedback/ideas are appreciated, but no guarantees that they will be fulfilled.
+Anyway, here's the stuff this mod adds so far:
+	 2 Weapons
+	 1 Material
