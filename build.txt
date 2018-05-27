@@ -1,4 +1,6 @@
 author = MonoWolf
 version = 0.1
-displayName = MonoWolf's Random Bosses & Stuff
-buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, vs\*, .git\*
+displayName = MonoWolf's Random Bosses & Stuff v0.1
+buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, vs\*, .git\*
+homepage = https://forums.terraria.org/index.php?threads/monowolfs-random-bosses-stuff.69743/
+includePDB = true
